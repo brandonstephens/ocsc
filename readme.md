@@ -1,0 +1,1 @@
+Open Color for Styled Components
